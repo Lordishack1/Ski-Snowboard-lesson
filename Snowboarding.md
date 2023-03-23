@@ -12,13 +12,16 @@
 ![everythingLaidOut](link)
 
 ---
-## Parts of your board
+## Parts of your Snowboard
 
+![Diagram](LinkToPicture)
+
+* 
 
 ## Putting on your boots and Snowboard
-* Make sure your boots are properly tightened
-  * You wan to make sure your inner linning or your boots are snug before you tighen the out outside boot
-* Lay your snowboard out in front of you sideways to the hill with the highback facing you
+* Make sure your boots are tight against your feet
+  * The inner linning or your boots should be snug before you tighen the out outside boot
+* Lay your snowboard out in front of you sideways accross the hill with the highback facing you
 
 ![Diagram](LinkToPicture)
 
